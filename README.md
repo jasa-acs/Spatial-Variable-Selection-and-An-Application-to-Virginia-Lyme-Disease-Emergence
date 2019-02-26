@@ -1,4 +1,4 @@
-# Downstream-Effects-of-Upstream-Causes
+# Spatial-Variable-Selection-and-An-Application-to-Virginia-Lyme-Disease-Emergence
 
 # Author Contributions Checklist Form
 
